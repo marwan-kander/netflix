@@ -1,0 +1,29 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card2 {
+  flex-grow:1;
+  flex-wrap: wrap;
+  align-items: center;
+  display:flex;
+  background: black;
+  width: 60px;
+  font-size: 11px;
+  color: black;
+  padding-bottom: 70px;
+  border-spacing: 10px;
+
+
+}
+
+.card2 a:hover {
+  text-decoration: underline;
+  text-decoration: none;
+  color:grey;
+}
+
+.card2 a{
+  color:grey;
+}

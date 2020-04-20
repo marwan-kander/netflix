@@ -1,0 +1,11 @@
+.card5{
+	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+	padding: 20px;
+	background:black;
+	border-top:9px solid #212121;
+	color:white;
+	padding-top: 20px;
+	letter-spacing:0.15rem;
+}

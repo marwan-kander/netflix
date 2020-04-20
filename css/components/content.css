@@ -1,0 +1,11 @@
+.content{
+	padding: 20px 10px;
+    padding-bottom: 10px;
+    display: none;
+    overflow: hidden;
+    background-color: #303030;
+    color: white;
+    letter-spacing: 0.1rem;
+    border: solid 7px black;
+    border-top: none;
+}
